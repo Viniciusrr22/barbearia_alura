@@ -1,0 +1,10 @@
+{
+  "liveServer.settings.port": 5501,
+  "liveServer.settings.mount": [
+
+  
+  ],
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+  "liveServer.settings.ChromeDebuggingAttachment": false,
+  "python.analysis.useLibraryCodeForTypes": false
+}
